@@ -1,0 +1,21 @@
+# VPS Docker Lab 🚀
+
+Microservices system using Docker, Telegram Bot, and Crawler.
+
+## Run
+
+```bash
+docker-compose up --build
+```
+
+## Services
+
+* Bot Telegram
+* Crawler
+* MySQL / PostgreSQL
+* Redis
+* Nginx
+
+## Notes
+
+Full README will be updated soon.
